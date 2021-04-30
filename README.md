@@ -20,11 +20,11 @@ I don’t know what keeps me going. Sometimes I wonder… I think it’s just pu
 
 💬 Ask me about MERN BLOCKCHAIN OPEN SOURCE TEAM MANAGMENT CONTENT WRITTING COMMUNITY WORKING
 
-📫 How to reach me MARSECDEVELOPER@GMAIL.COM
+📫 How to reach me muhammadhassan.sw18@muetkhp.edu.pk
 
 ⚡ Fun fact I AM VERY PASSIONET AND TO THE POINT GUY I LOVE TO SOLVE PROBLEM AND LEARN FROM THE CHALLENGES . I DONT BELIVE IN SHORTCUTS AND FRAUDS .
    
-⚡️ Developer Student Clubs Muet Shaheed Z.A Bhutto Campus Khairpur Mir's     https://dsc.community.dev/muet-shaheed-za-bhutto-campus-khairpur-mirs/
+⚡️ Developer Student Clubs Muet Shaheed Z.A Bhutto Campus Khairpur Mir's https://dsc.community.dev/muet-shaheed-za-bhutto-campus-khairpur-mirs/
 
 Blogs posts Connect with me: Email MuhammadHassan.Bughio@ambassadors.com // || Personal Website https://muhammadhassan.netlify.app/ ||Linkedin https://www.linkedin.com/in/muhammad-hassan-416650189/ || Devepost https://devpost.com/muhammadhassansw18?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav || Medium https://muhammadhassan-sw18.medium.com/ Languages and Tools: bootstrap cypress d3js docker electron express firebase git html5 java javascript linux mongodb mysql nextjs nginx nodejs oracle postgresql react reactnative redux spring webpack xamarin
 
@@ -32,4 +32,4 @@ muhammadhassan
 
 muhammadhassan
 
-If you love my work andwant to support me then sponser me . https://github.com/muhammadhassan/muetfolio/blob/master/.github/FUNDING.
+If you love my work and want to support me then sponser me . https://github.com/muhammadhassan/muetfolio/blob/master/.github/FUNDING.
