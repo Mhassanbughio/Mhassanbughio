@@ -4,7 +4,7 @@ Muhammad Hassan
 
 Full-Stack Developer || Freelancer ||Crypto traders 🤝 || Blockchain Developer|| Beta Microsoft Learn Student Ambassadors || DSC Core LEAD 2021 🏆 || Major League Hacking|| Amazon WEB Services || Open source enthusaist || HBR ascend member || Developer Advocate| | MUETIAN ||Mentor/Coach at Open Data Pakistan 🤝 ||Ideagist Startup Pakistan Cmapus Lead|| Hult Prize Organiztion Community Director || IEEE Women in Engineering Pakistan ||Content writer and blogger at dev.to||MLH LOCAL HOST AT MUET SZAB ⚡️ GitHub GitHub stars All Contributors Rank in pakistan.
 
-I don’t know what keeps me going. Sometimes I wonder… I think it’s just pure perseverance and wanting to succeed and having that burning desire to always have success! Hi 👋, I'am hassan I AM CROSS SIDE FULLSTACK FLUTTER DEVELOPER . OPEN SOURCE ENTHUSAIST .BLOCKCHAIN EVENGLIST . MEMBER OF HBR ASCEND SELECT .GOOGLE DSC CORE LEAD 2021 . PASSIONAT TOWARDS BUILDING AND DELIVERING BEST SOLUTIONS . TECH ENTHUSIAST . WRITTER AND BLOGGER muhammadhassan.
+I don’t know what keeps me going. Sometimes I wonder… I think it’s just pure perseverance and wanting to succeed and having that burning desire to always have success! Hi 👋, I'am hassan I AM CROSS SIDE FULLSTACK FLUTTER DEVELOPER . OPEN SOURCE ENTHUSAIST. BLOCKCHAIN EVENGLIST. BETA Microsoft Learn Student Ambassadors. AWS COMMUNITY BUILDER. GOOGLE CORE DSC LEAD 2021. Ideagist Stratup Pakistan Lead. MLH ORGANIZER. PASSIONAT TOWARDS BUILDING AND DELIVERING BEST SOLUTIONS . TECH ENTHUSIAST . WRITTER AND BLOGGER muhammadhassan.
 
 🔭 I’m currently working on FINITEYFI
 
