@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'am++Muhammad+Hassan+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+;Open+Source+Enthusiastic;Flutter+Lead++GDG+Pakistan;TECH+EVENGLIST;AWS+Community+Builder;Microsoft+Learn+Student+Ambassador;AWS+Student+Ambassador;Microsoft+Innovative+Expert;Glad+to+see+you+here+!)](https://git.io/typing-svg)
 
 
-<h3 align="center">I don’t know what keeps me going. Sometimes I wonder… I think it’s just pure perseverance and wanting to succeed and having that burning desire to always have success! Hi 👋, I'am hassan I AM CROSS SIDE FULLSTACK FLUTTER DEVELOPER.OPEN SOURCE ENTHUSAIST. BLOCKCHAIN EVENGLIST.BETA MICROSOFT LEARN STUDENT AMBASSADORS.AWS COMMUNITY BUILDER. GOOGLE CORE DSC LEAD 2021.IDEAGIST STARTUP PAKISTAN LEAD.MLH ORGANIZER.PASSIONAT TOWARDS BUILDING AND DELIVERING BEST SOLUTIONS. TECH ENTHUSIAST.BLOGGER @muhammadhassan.</h3>
+<h3 align="center">I don’t know what keeps me going. Sometimes I wonder… I think it’s just pure perseverance and wanting to succeed and having that burning desire to always have success!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhassanbughio&label=Profile%20views&color=0e75b6&style=flat" alt="mhassanbughio" /> </p>
 
