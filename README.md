@@ -35,9 +35,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 
-<p>&nbsp;<img align="start" src="https://github-readme-stats.vercel.app/api?username=mhassanbughio&show_icons=true&locale=en" alt="mhassanbughio" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mhassanbughio&show_icons=true&locale=en" alt="mhassanbughio" /></p>
 
-<p><img align="end" src="https://github-readme-streak-stats.herokuapp.com/?user=mhassanbughio&" alt="mhassanbughio" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mhassanbughio&" alt="mhassanbughio" /></p>
 
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
