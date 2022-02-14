@@ -1,14 +1,5 @@
 <h1 align="center">Hey there! 👋 </h1>
 
-<h2>WEEKLY DEVELOPMENT STATS </h2>
-<!--- just a dummy data for decoration --->
-  
-```text
-Dart               5 hrs 30 mins       ███████░░░     70.75%
-Solidity           3 hrs 15 mins       ██████░░░░     55.18%
-Java               0 secs              ░░░░░░░░░░     00.05%
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'am++Muhammad+Hassan+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+;Open+Source+Enthusiastic;Flutter+Lead++GDG+Pakistan;TECH+EVENGLIST;AWS+Community+Builder;Microsoft+Learn+Student+Ambassador;AWS+Student+Ambassador;Microsoft+Innovative+Expert;Glad+to+see+you+here+!)](https://git.io/typing-svg)
 
 
@@ -48,3 +39,10 @@ Java               0 secs              ░░░░░░░░░░     00.05%
 
 <p><img align="end" src="https://github-readme-streak-stats.herokuapp.com/?user=mhassanbughio&" alt="mhassanbughio" /></p>
 
+<h2>WEEKLY DEVELOPMENT STATS </h2>
+<!--- just a dummy data for decoration --->
+  
+```text
+Dart               5 hrs 30 mins       ███████░░░     70.75%
+Solidity           3 hrs 15 mins       ██████░░░░     55.18%
+Java               0 secs              ░░░░░░░░░░     00.05%
