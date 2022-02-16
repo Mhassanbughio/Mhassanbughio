@@ -1,4 +1,7 @@
 <h1 align="center">Hey there! 👋 </h1>
+<div align="center">
+<img width="100%" height = "250px" src="https://github.com/Mhassanbughio/Mhassanbughio/blob/main/Image.jpg" alt="cover" />
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'am++Muhammad+Hassan+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+;Open+Source+Enthusiastic;Flutter+Lead++GDG+Pakistan;TECH+EVENGLIST;AWS+Community+Builder;Microsoft+Learn+Student+Ambassador;AWS+Student+Ambassador;Microsoft+Innovative+Expert;Glad+to+see+you+here+!)](https://git.io/typing-svg)
 
