@@ -47,4 +47,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhassanbughio&show_icons=true&locale=en" alt="mhassanbughio" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhassanbughio&" alt="mhassanbughio" /></p>
+<p><img width"50" hight"100" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhassanbughio&" alt="mhassanbughio" /></p>
