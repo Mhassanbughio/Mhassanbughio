@@ -12,7 +12,6 @@
   </div>
 
 <h3 align="center">I don’t know what keeps me going. Sometimes I wonder… I think it’s just pure perseverance and wanting to succeed and having that burning desire to always have success!</h3>
-[![GitHub stars](https://img.shields.io/github/stars/Mhassanbughio/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Mhassabbughio/StrapDown.js/stargazers/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhassanbughio&label=Profile%20views&color=0e75b6&style=flat" alt="mhassanbughio" /> </p>
 
 <p align="left"> <a href="https://twitter.com/muhamma36404716" target="blank"><img src="https://img.shields.io/twitter/follow/muhamma36404716?logo=twitter&style=for-the-badge" alt="muhamma36404716" /></a> </p>
