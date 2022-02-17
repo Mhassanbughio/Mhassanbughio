@@ -25,8 +25,7 @@
 
 - ⚡ Fun fact **Traveling**
 
-  
-<h3 align="left">Connect with me:</h3>
+  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://dev.to/https://dev.to/mhassanbughio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/mhassanbughio" height="30" width="40" /></a>
 <a href="https://twitter.com/muhamma36404716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamma36404716" height="30" width="40" /></a>
