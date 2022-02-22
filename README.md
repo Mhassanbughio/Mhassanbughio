@@ -49,8 +49,7 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Mhassanbughio&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Mhassanbughio&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
-<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<div align="center"> <img src="https://raw.githubusercontent.com/Mhassanbughio/Mhassanbughio/output/github-contribution-grid-snake.svg" /></div>
   
   <body style="margin: 0px; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; width: 100%; position: absolute;">
   
-![snake gif](https://github.com/Mhassanbughio/Mhassanbughio/blob/output/github-contribution-grid-snake.gif)
