@@ -27,7 +27,7 @@
 - ⚡ Fun fact **Traveling**
   ### My Blogs
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/muhammadhassan-sw18.medium.com"><img src="https://github-readme-medium-recent-article.vercel.app/medium/muhammadhassan-sw18.medium.com" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/muhammadhassan-sw18.medium.com"><img src="https://github-readme-medium-recent-article.vercel.app/medium/muhammadhassan-sw18.medium.com" alt="Recent Article"> 
 
 <h2> Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
