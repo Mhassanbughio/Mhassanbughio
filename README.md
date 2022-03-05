@@ -21,11 +21,11 @@
 - 👯 I’m looking to collaborate Building **Open Source Community 🚩**
 
 - 💬 Ask me about **Flutter and Open Source**
-  
--   Mentor students and help budding developers be better
-  
-- ⚡ Fun fact **Traveling**
-  
+    
+- ⚡ I am a Community Guy 💖 and a Public Speaker🎙️. Additionally travelling 🧳, music 🎼 and food 😋 is what I like the most**
+
+-  Mentor students and help budding developers be better
+
  #### ✍ Medium Blog Posts
 
 <!-- MEDIUM-STORY-LIST:START -->
