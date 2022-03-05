@@ -21,7 +21,9 @@
 - 👯 I’m looking to collaborate Building **Open Source Community 🚩**
 
 - 💬 Ask me about **Flutter and Open Source**
-
+  
+-   Mentor students and help budding developers be better
+  
 - ⚡ Fun fact **Traveling**
   
  #### ✍ Medium Blog Posts
