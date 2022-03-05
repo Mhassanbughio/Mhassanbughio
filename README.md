@@ -25,9 +25,12 @@
 - 💬 Ask me about **Flutter and Open Source**
 
 - ⚡ Fun fact **Traveling**
-  ### My Blogs
+  
+ #### ✍ Medium Blog Posts
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/muhammadhassan-sw18.medium.com"><img src="https://github-readme-medium-recent-article.vercel.app/medium/muhammadhassan-sw18.medium.com" alt="Recent Article"> 
+<!-- MEDIUM-STORY-LIST:START -->
+- [Should I learn Dart before Flutter?](https://medium.com/@muhammadhassan-sw18/should-i-learn-dart-before-move-to-flutter-602b6bbfcf6b)
+
 
 <h2> Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
