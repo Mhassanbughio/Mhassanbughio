@@ -20,8 +20,6 @@
   
 - 👯 I’m looking to collaborate Building **Open Source Community 🚩**
 
-- 📝 I regularly write articles on [https://medium.com/@muhammadhassan.sw18](https://medium.com/@muhammadhassan.sw18)
-
 - 💬 Ask me about **Flutter and Open Source**
 
 - ⚡ Fun fact **Traveling**
@@ -30,9 +28,10 @@
 
 <!-- MEDIUM-STORY-LIST:START -->
 - [GITHUB CAMPUS EXPERT FULL GUIDE TO EXPERT TRAINING?](https://medium.com/@muhammadhassan-sw18/github-campus-expert-full-guide-to-expert-training-169d3478bded)
-- [Should I learn Dart before Flutter?](https://medium.com/@muhammadhassan-sw18/should-i-learn-dart-before-move-to-flutter-602b6bbfcf6b)
 - [Hacktoberfest 2021 is Here?](https://medium.com/@muhammadhassan-sw18/hacktoberfest-2021-is-here-868186a2cea7)
 - [How to Avail GitHub Student Developer Pack — A Complete Guide?](https://medium.com/@muhammadhassan-sw18/how-to-avail-github-student-developer-pack-a-complete-guide-1da101dad62)
+- [Should I learn Dart before Flutter?](https://medium.com/@muhammadhassan-sw18/should-i-learn-dart-before-move-to-flutter-602b6bbfcf6b)
+  
 
 <h2> Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
