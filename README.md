@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Flutter and Open Source**
     
-- ⚡ I am a Community Guy 💖 and a Public Speaker🎙️. Additionally travelling 🧳, music 🎼 and food 😋 is what I like the most
+- ⚡ I am a Community Guy 💖 and a Public Speaker🎙️. Additionally travelling 🧳, music 🎼 and food 😋is what I like the most
 
 -  Mentor students and help budding developers be better
 
