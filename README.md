@@ -29,7 +29,7 @@
  #### ✍ Medium Blog Posts
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Git Cheatsheet Every Dev. MUST know](https://muhammadhassan-sw18.medium.com/git-cheatsheet-every-dev-must-know-aa60e931b4db)
+- [Git Cheatsheet Every Dev. MUST know](https://muhammadhassan-sw18.medium.com/git-cheatsheet-every-dev-must-know-5d2f7d380e4b)
 - [GITHUB CAMPUS EXPERT FULL GUIDE TO EXPERT TRAINING?](https://medium.com/@muhammadhassan-sw18/github-campus-expert-full-guide-to-expert-training-169d3478bded)
 - [Hacktoberfest 2021 is Here?](https://medium.com/@muhammadhassan-sw18/hacktoberfest-2021-is-here-868186a2cea7)
 - [How to Avail GitHub Student Developer Pack — A Complete Guide?](https://medium.com/@muhammadhassan-sw18/how-to-avail-github-student-developer-pack-a-complete-guide-1da101dad62)
