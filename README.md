@@ -13,6 +13,7 @@ https://user-images.githubusercontent.com/60064591/178590846-6733836a-1a4b-4a5c-
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'am++Muhammad+Hassan+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+;Open+Source+Enthusiastic;Flutter+Lead++GDG+Pakistan;TECH+EVENGLIST;AWS+Community+Builder;Microsoft+Learn+Student+Ambassador;AWS+Student+Ambassador;Microsoft+Innovative+Expert;Glad+to+see+you+here+!)](https://git.io/typing-svg)
 
   </div>
+  ![Yuri On Ice Example](https://i.imgur.com/6wIylNl.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhassanbughio&label=Profile%20views&color=0e75b6&style=flat" alt="mhassanbughio" /> </p>
 
