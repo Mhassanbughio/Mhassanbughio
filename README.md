@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/60064591/178590846-6733836a-1a4b-4a5c-
 - [Hacktoberfest 2021 is Here?](https://medium.com/@muhammadhassan-sw18/hacktoberfest-2021-is-here-868186a2cea7)
 - [How to Avail GitHub Student Developer Pack — A Complete Guide?](https://medium.com/@muhammadhassan-sw18/how-to-avail-github-student-developer-pack-a-complete-guide-1da101dad62)
 - [Should I learn Dart before Flutter?](https://medium.com/@muhammadhassan-sw18/should-i-learn-dart-before-move-to-flutter-602b6bbfcf6b)
-  
+- [What’s New in Flutter 3.0?](https://muhammadhassan-sw18.medium.com/whats-new-in-flutter-3-0-c729081ecf68)
 
 <h2> Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
