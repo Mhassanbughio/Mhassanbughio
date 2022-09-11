@@ -33,14 +33,14 @@ https://user-images.githubusercontent.com/60064591/178590846-6733836a-1a4b-4a5c-
  #### ✍ Medium Blog Posts
 
 <!-- MEDIUM-STORY-LIST:START -->
+
+- [How to Build CI/CD pipeline in Azure DevOps?](https://muhammadhassan-sw18.medium.com/how-to-build-ci-cd-pipeline-in-azure-devops-just-in-2-minutes-52c6c3a8f2f0)
 - [To Know About Git and Github](https://muhammadhassan-sw18.medium.com/to-know-about-git-and-github-392501f0788e)
 - [Git Cheatsheet Every Dev. MUST know](https://muhammadhassan-sw18.medium.com/git-cheatsheet-every-dev-must-know-5d2f7d380e4b)
 - [GITHUB CAMPUS EXPERT FULL GUIDE TO EXPERT TRAINING?](https://medium.com/@muhammadhassan-sw18/github-campus-expert-full-guide-to-expert-training-169d3478bded)
 - [Hacktoberfest 2021 is Here?](https://medium.com/@muhammadhassan-sw18/hacktoberfest-2021-is-here-868186a2cea7)
 - [How to Avail GitHub Student Developer Pack — A Complete Guide?](https://medium.com/@muhammadhassan-sw18/how-to-avail-github-student-developer-pack-a-complete-guide-1da101dad62)
 - [Should I learn Dart before Flutter?](https://medium.com/@muhammadhassan-sw18/should-i-learn-dart-before-move-to-flutter-602b6bbfcf6b)
-- [What’s New in Flutter 3.0?](https://muhammadhassan-sw18.medium.com/whats-new-in-flutter-3-0-c729081ecf68)
-- [Decoding Most Use-Full Flutter Widgets](https://muhammadhassan-sw18.medium.com/decoding-flutter-widgets-c1337bc73c95)
 - [What do I Choose Flutter Or Reactive Native 2022?](https://muhammadhassan-sw18.medium.com/what-do-i-choose-flutter-or-reactive-native-2022-9246f9d73bf9)
 - [Do You Know? Most Frequently Flutter Questions 2022 Asked by Interviewer](https://medium.com/@123muhammadhassanbughio/do-you-know-most-frequently-asked-by-interviewer-flutter-questions-2022-ce994782eb45)  
 
