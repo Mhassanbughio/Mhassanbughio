@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img width="80%" height = "350px" src="https://github.com/Mhassanbughio/Mhassanbughio/blob/main/Image.jpg" alt="cover" />
+<img width="80%" height = "350px" src="https://github.com/Mhassanbughio/Mhassanbughio/blob/main/Purple%20Modern%20Tech%20Channel%20Youtube%20Banner%20(1).jpg" alt="cover" />
 </div>
 <div align="center">
 
